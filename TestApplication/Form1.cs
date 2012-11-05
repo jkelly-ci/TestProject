@@ -38,10 +38,5 @@ namespace TestApplication
             
 
         }
-
-        private void TestMethod()
-        {
-
-        }
     }
 }
