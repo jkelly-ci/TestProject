@@ -24,6 +24,7 @@ namespace TestApplication
             try
             {
                 MessageBox.Show("This is a test about branching.");
+                MessageBox.Show("This is a second test about branching.");
             }
             catch (Exception ex)
             {
