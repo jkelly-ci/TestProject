@@ -35,7 +35,10 @@ namespace TestApplication
             {
                 //Disconnect();
             }
-            
+        }
+
+        private void TestMethod()
+        {
 
         }
     }
